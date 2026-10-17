@@ -1,4 +1,4 @@
-echo "Bring back herdr's pane dividers, which a black surface_dim hid"
+echo "Bring back herdr's sidebar dividers, which a black surface_dim hid"
 
 config="$HOME/.config/herdr/config.toml"
 
